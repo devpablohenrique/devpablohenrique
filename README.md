@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Pablo Henrique
 
-- 🔭 Hoje trabalho com Protheus (ADVPL)
-- 🌱 Estudando Html CSS JavaScript
-- 😄 Pronouns: ele/dele
-
 <div align="left">
   <a href="https://github.com/devpablohenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpablohenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
